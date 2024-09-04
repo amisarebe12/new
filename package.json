@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@babel/core": "7.25.2",
+    "@babel/node": "7.25.0",
+    "@babel/preset-env": "7.25.4",
+    "body-parser": "1.20.2",
+    "dotenv": "16.4.5",
+    "ejs": "3.1.10",
+    "express": "4.19.2",
+    "nodemon": "3.1.4"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node src/server.js"
+  },
+  "name": "hoc",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

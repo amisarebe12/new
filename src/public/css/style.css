@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+    border: 1px solid green;
+}
+
+img {
+    border: 1px solid red;
+    width: 80%;
+}
+
+h2 button {
+    text-align: center;
+    border-width: 50%;
+    color: aquamarine;
+    width: 50%;
+    border: 2px solid rgb(255, 0, 0);
+}
+
+html {
+    background-color: black;
+}
